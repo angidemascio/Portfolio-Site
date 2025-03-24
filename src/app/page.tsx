@@ -72,7 +72,7 @@ export default function Home(): JSX.Element {
 
   const skills: Skill[] = [
     { category: "Programming Languages", items: ["Rust", "Python", "C++", "JavaScript", "Java", "HTML", "CSS", "TypeScript"] },
-    { category: "Technologies", items: ["IDA Pro", "Next.js", "React", "Node.js", "Git", "Postman", "TensorFlow", "PyTorch"] },
+    { category: "Technologies", items: ["IDA Pro", "Next.js", "React", "Node.js", "Git", "Postman", "TensorFlow", "PyTorch", "Vercel"] },
     { category: "Other Skills", items: ["Web Development", "Functional Programming", "Relational Databases", "Object-Oriented Programming", "Compilers", "Git", "Software Development", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Reverse Engineering", "Networking", "Binary Analysis"] },
     { category: "Languages", items: ["English (Native)", "Spanish (Professional Working)", "Portuguese (Limited Working)", "American Sign Language (Limited Working)"] }
   ];
