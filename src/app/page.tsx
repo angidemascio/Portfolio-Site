@@ -212,15 +212,6 @@ export default function Home(): JSX.Element {
               <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white/50 mx-auto shadow-lg relative">
                 <div className="w-full h-full bg-purple-300 flex items-center justify-center">
                   <span className="text-6xl font-bold text-white">AD</span>
-                  {<Image
-                    src="/photo.jpg"
-                    alt="Angelina Demascio"
-                    fill
-                    sizes="(max-width: 768px) 0px, 192px"
-                    className="object-cover"
-                    priority
-                  />
-                  }
                 </div>
               </div>
               <div className="flex justify-center mt-2">
