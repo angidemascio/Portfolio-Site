@@ -175,7 +175,7 @@ export default function Home(): JSX.Element {
                 </div>
                 <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
                   <Calendar className="w-5 h-5 mr-2" />
-                  <span>Graduating: {personalInfo.graduationDate}</span>
+                  <span>Graduated: {personalInfo.graduationDate}</span>
                 </div>
               </div>
 
@@ -212,6 +212,16 @@ export default function Home(): JSX.Element {
               <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white/50 mx-auto shadow-lg relative">
                 <div className="w-full h-full bg-purple-300 flex items-center justify-center">
                   <span className="text-6xl font-bold text-white">AD</span>
+                  {<Image
+                    src="/photo.png"
+                    alt="Angelina Demascio"
+                    fill
+                    sizes="(max-width: 768px) 0px, 192px"
+                    className="object-cover"
+                    priority
+                    quality={100}
+                  />
+                  }
                 </div>
               </div>
               <div className="flex justify-center mt-2">
@@ -462,7 +472,7 @@ export default function Home(): JSX.Element {
                       </li>
                       <li className="flex items-center text-gray-600">
                         <Heart className="w-4 h-4 mr-2 text-pink-400" />
-                        Graduating: {personalInfo.graduationDate}
+                        Graduated: {personalInfo.graduationDate}
                       </li>
                       <li className="flex items-center text-gray-600">
                         <Heart className="w-4 h-4 mr-2 text-pink-400" />
