@@ -60,7 +60,7 @@ export default function Home(): JSX.Element {
 
   const personalInfo: PersonalInfo = {
     name: "Angelina Demascio",
-    title: "Computer Science Student",
+    title: "Computer Science Graduate",
     university: "Florida Atlantic University",
     location: "Boca Raton, FL",
     email: "angidemascio@outlook.com",
@@ -105,6 +105,13 @@ export default function Home(): JSX.Element {
       tech: ["Rust", "Cryptography", "Networking", "Security"],
       timeline: "Nov 2022 - May 2023",
       github: "https://github.com/angidemascio/Secure-Chat-Application"
+    },
+    {
+      title: "Training Exercise Facilitator for Military Robots",
+      description: "Collaborated on a senior capstone project to design a system that facilitates training exercises for military robots. Developed software modules for task generation, performance tracking, and real-time feedback. Worked closely with robotics hardware and applied principles of systems engineering.",
+      tech: ["Python", "HTML", "CSS", "JavaScript"],
+      timeline: "Dec 2024 - May 2025",
+      github: "https://www.fau.edu/engineering/senior-design/projects/spring2025/training-exercise-facilitator-military-robots/"
     }
   ];
 
@@ -151,6 +158,12 @@ export default function Home(): JSX.Element {
       issuer: "Spanish River High School",
       date: "May 2020",
       description: "Recognized for exceptional academic achievement, leadership, and potential for future success."
+    },
+    {
+      title: "SOAR-in-4 Scholar",
+      issuer: "Florida Atlantic University",
+      date: "",
+      description: " Recognized as a SOAR in 4 Scholar for academic excellence and commitment to completing a degree in four years, with opportunities for mentorship and professional development"
     }
   ];
 
