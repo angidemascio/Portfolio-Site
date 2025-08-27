@@ -519,13 +519,13 @@ export default function Home(): JSX.Element {
                         <div className="bg-purple-100 p-1 rounded-full mr-2 mt-1">
                           <Code className="w-4 h-4 text-purple-500" />
                         </div>
-                        <span className="text-gray-600"><b>Compilers & Programming Languages</b> – The magic behind turning code into something a machine understands. Parsing, optimization, and making things run faster, smarter, and more efficiently is my kind of challenge.</span>
+                        <span className="text-gray-600"><b>Compilers & Programming Languages</b> – The magic behind turning code into something a machine understands. Parsing, optimization, and making things run more efficiently.</span>
                       </li>
                       <li className="flex items-start">
                         <div className="bg-purple-100 p-1 rounded-full mr-2 mt-1">
                           <Code className="w-4 h-4 text-purple-500" />
                         </div>
-                        <span className="text-gray-600"><b>Reverse Engineering & Binary Analysis</b> – Nothing is truly a black box. Whether it’s disassembling executables, analyzing opcodes, or uncovering hidden behaviors, I love figuring out how things work at the lowest level.</span>
+                        <span className="text-gray-600"><b>Reverse Engineering & Binary Analysis</b> – Nothing is truly a black box. Disassembling executables and analyzing opcodes; I love figuring out how things work at the lowest level.</span>
                       </li>
                       <li className="flex items-start">
                         <div className="bg-purple-100 p-1 rounded-full mr-2 mt-1">
@@ -537,7 +537,7 @@ export default function Home(): JSX.Element {
                         <div className="bg-purple-100 p-1 rounded-full mr-2 mt-1">
                           <Code className="w-4 h-4 text-purple-500" />
                         </div>
-                        <span className="text-gray-600"><b>Operating Systems & Low-Level Systems Programming</b> – Memory management, process scheduling, and kernel internals—the foundation of everything we build. I’m fascinated by how the OS optimizes resources, handles security, and runs the software we rely on every day.</span>
+                        <span className="text-gray-600"><b>Operating Systems & Low-Level Systems Programming</b> – I'm fascinated by topics like memory management, process scheduling, and kernel internals. Operating systems optimize the usage of resources and handle security in ways that I find extremely interesting and engaging.</span>
                       </li>
                     </ul>
                   </div>
