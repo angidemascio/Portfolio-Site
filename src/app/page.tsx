@@ -163,7 +163,7 @@ export default function Home(): JSX.Element {
       title: "SOAR-in-4 Scholar",
       issuer: "Florida Atlantic University",
       date: "",
-      description: " Recognized as a SOAR in 4 Scholar for academic excellence and commitment to completing a degree in four years, with opportunities for mentorship and professional development"
+      description: " Recognized as a SOAR in 4 Scholar for academic excellence and commitment to completing a degree in four years, with opportunities for mentorship and professional development."
     }
   ];
 
@@ -499,13 +499,13 @@ export default function Home(): JSX.Element {
                   <h3 className="text-xl font-semibold text-pink-700 mb-4">Hello there! 👋</h3>
                   <div className="space-y-4 text-gray-600">
                     <p>
-                      If there&apos;s one thing you should know about me, it&apos;s that I <b>live</b> for optimization—not just in code, but in everything I do. I don&apos;t just want to understand how things work; I want to break them apart, push them to their limits, and rebuild them better than before.
+                      If there&apos;s one thing you should know about me, it&apos;s that I <b>live</b> for optimization in everything I do. I don&apos;t just want to understand how things work; I want to break them apart and rebuild them better than before.
                     </p>
                     <p>
-                      You&apos;ll find me in the gym as often as you&apos;ll find me buried in code—because to me, progressive overload applies to everything. I break down my own performance—tracking every variable, optimizing every rep, every rest period, every meal. The same instinct that makes me obsessed with squeezing every last drop of performance out of a system is the one that drives me to push past my limits, over and over again.
+                      You&apos;ll find me in the gym as often as you&apos;ll find me buried in code. The same instinct that makes me obsessed with squeezing every last drop of performance out of a system is the one that drives me to push past my limits, over and over again.
                     </p>
                     <p>
-                      I believe that growth happens not only through self-improvement but through collaboration and learning from others. Whether in a team or at the gym with my friends, I value those who push me to be better and challenge my perspectives. If you&apos;re all about lifelong learning, pushing boundaries, or simply enjoy diving into conversations about tech, fitness, or everything in between: let&apos;s connect!
+                      I believe that growth happens not only through independent effort but through collaboration and learning from others. Whether in a team or at the gym with my friends, I value those who push me to be better and challenge my perspectives. If you&apos;re all about lifelong learning and pushing boundaries, let&apos;s connect!
                     </p>
                     <p>
                       (Bonus points if you love Rust as much as I do! 🦀)
